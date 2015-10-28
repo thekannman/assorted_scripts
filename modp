@@ -1,0 +1,1 @@
+modprobe -v nvidia-340-uvm

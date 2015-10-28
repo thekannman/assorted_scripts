@@ -1,0 +1,1 @@
+ffmpeg -r 16 -i rplot%d.jpg -qscale 1 output.avi
